@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Python, TypeScript, MongoDB**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Belal-Elsabbagh](https://github.com/Belal-Elsabbagh)
+- 👨‍💻 All of my projects are available at [my github repositories](https://github.com/Belal-Elsabbagh?tab=repositories)
 
 - 💬 Ask me about **C++, Java, PHP, JavaScript**
 
