@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=belal-elsabbagh" alt="belal-elsabbagh" /></a> </p>
 
-- 🌱 I’m currently learning **Rust, TypeScript, and Flutter**
+- 🌱 I’m currently learning **Rust, TypeScript, Svelte, and Flutter**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Belal-Elsabbagh](https://github.com/Belal-Elsabbagh)
 
