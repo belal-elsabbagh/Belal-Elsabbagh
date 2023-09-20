@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Belal-Elsabbagh](https://github.com/Belal-Elsabbagh)
 
-- 💬 Ask me about **C++, Java, Python, JavaScript**
+- 💬 Ask me about **AI, Data Science, Software Engineering**
 
 - 📫 How to reach me **Email me at: belsabbagh@gmail.com**
 
