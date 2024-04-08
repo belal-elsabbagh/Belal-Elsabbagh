@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Rust, TypeScript, Svelte, and Flutter**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Belal-Elsabbagh](https://github.com/Belal-Elsabbagh)
+- 👨‍💻 All of my projects are available [here](https://github.com/belsabbagh)
 
 - 💬 Ask me about **AI, Data Science, Software Engineering**
 
